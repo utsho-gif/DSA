@@ -1,0 +1,7 @@
+C:\Resource\task\CombinationsApp\bin\Debug\CombinationsApp.exe.config
+C:\Resource\task\CombinationsApp\bin\Debug\CombinationsApp.exe
+C:\Resource\task\CombinationsApp\bin\Debug\CombinationsApp.pdb
+C:\Resource\task\CombinationsApp\obj\Debug\CombinationsApp.csproj.AssemblyReference.cache
+C:\Resource\task\CombinationsApp\obj\Debug\CombinationsApp.csproj.CoreCompileInputs.cache
+C:\Resource\task\CombinationsApp\obj\Debug\CombinationsApp.exe
+C:\Resource\task\CombinationsApp\obj\Debug\CombinationsApp.pdb
