@@ -1,24 +1,7 @@
-Problem 1: Given two integers n and k, return all possible combinations of k numbers chosen from the range [1, n].
+Problem 1: Given two integers n and k, return all possible combinations of k numbers chosen from the range [1, n]. You may return the answer in any order.
 
-You may return the answer in any order.
-
-Example:
-
-n = 4
-
-k=2
-
-Output =
-
-[
-
-[1,2],[1,3],[1,4],
-
-[2,3],[2,4],
-
-[3,4]
-
-]
+Example: n = 4, k=2
+Output = [[1,2],[1,3],[1,4],[2,3],[2,4],[3,4]]
 
 Problem 2: Given an array of distinct integers candidates and a target integer target, return a list of all unique combinations of candidates where the chosen numbers sum to target. You may return the combinations in any order.
 
