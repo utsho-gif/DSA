@@ -15,6 +15,17 @@ namespace CombinationsApp
             {
                 Console.WriteLine($"[{string.Join(" ,", res)}]");
             }
+
+            int[] arr = { 2, 2, 4, 5, 7, 1, 2 };
+            int secondLargest = arr.OrderByDescending(x => x).Distinct().Skip(1).First();
+            Console.WriteLine(secondLargest);
+
+            bool IsPalindrome(string str) => str == new string(str.Reverse().ToArray());
+            Console.WriteLine(IsPalindrome("Hello"));
+
+            var duplicates = arr.GroupBy(x => x).Where(g => g.Count() > 1).Select(g => g.Key);
+            Console.WriteLine(duplicates);
+            
         }
 
         public static IList<IList<int>> Combination(int n, int k)

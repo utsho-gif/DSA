@@ -1,0 +1,7 @@
+C:\Resource\task\Sum1\bin\Debug\Sum1.exe.config
+C:\Resource\task\Sum1\bin\Debug\Sum1.exe
+C:\Resource\task\Sum1\bin\Debug\Sum1.pdb
+C:\Resource\task\Sum1\obj\Debug\Sum1.csproj.AssemblyReference.cache
+C:\Resource\task\Sum1\obj\Debug\Sum1.csproj.CoreCompileInputs.cache
+C:\Resource\task\Sum1\obj\Debug\Sum1.exe
+C:\Resource\task\Sum1\obj\Debug\Sum1.pdb
