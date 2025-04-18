@@ -20,3 +20,11 @@ Explanation:
 9 is a candidate, and 9 = 9.
 These are the only two combinations.
 ----------------------------------------------------------------
+
+Problem 3 (Combination Sum 2): Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sum to target. Each number in the candidates may only be used once in the combination.
+Note: The solution set must not contain duplicate combinations. 
+Example :
+
+Input: candidates = [3,5,2,1,3], target = 7
+Output: [[1,3,3],[5,2]]
+---------------------------------------------------------------
