@@ -1,0 +1,7 @@
+C:\Resource\DSA\CombinationSum 2\bin\Debug\CombinationSum 2.exe.config
+C:\Resource\DSA\CombinationSum 2\bin\Debug\CombinationSum 2.exe
+C:\Resource\DSA\CombinationSum 2\bin\Debug\CombinationSum 2.pdb
+C:\Resource\DSA\CombinationSum 2\obj\Debug\CombinationSum 2.csproj.AssemblyReference.cache
+C:\Resource\DSA\CombinationSum 2\obj\Debug\CombinationSum 2.csproj.CoreCompileInputs.cache
+C:\Resource\DSA\CombinationSum 2\obj\Debug\CombinationSum 2.exe
+C:\Resource\DSA\CombinationSum 2\obj\Debug\CombinationSum 2.pdb
